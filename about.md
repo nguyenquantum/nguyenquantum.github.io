@@ -5,7 +5,12 @@ title: ""
 
 Birthplace: Quang Binh, Vietnam
 
-Nationality: Vietnamese
+Current place: Cambridge, MA, USA
+
+Full name is Vietnamese: Nguyễn Thế Quỳnh
+
+Pronouns: he/him/his
+
 
 **Education**
 Harvard University - PhD student in quantum information  (*incoming Fall 2022*)
