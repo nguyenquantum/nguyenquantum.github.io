@@ -7,8 +7,8 @@ categories:
   - website
 ---
 
-## This website is created!
+## This website is created
 
-Yay!
+I'm now on the internet. Yay!
 
-[link](mit.edu)
+[link](https://web.mit.edu/)
