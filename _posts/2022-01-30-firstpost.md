@@ -1,5 +1,5 @@
 ---
-title: "My first post!"
+title: "My first post"
 mathjax: true
 layout: post
 categories:
@@ -9,6 +9,6 @@ categories:
 
 ## This website is created
 
-I'm now on the internet. Yay!
+I am now on the internet. Yay!
 
 [link](https://web.mit.edu/)
