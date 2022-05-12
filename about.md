@@ -4,6 +4,7 @@ title: ""
 ---
 
 Birthplace: Quang Binh, Vietnam
+
 Nationality: Vietnamese
 
 Education
