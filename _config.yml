@@ -23,7 +23,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:nguyentq@mit.edu"}
-  - {title: Scholar, icon: university, url: "https://scholar.google.com/citations?view_op=list_works&hl=en&user=vTYawOEAAAAJ"}
+  - {title: Scholar, icon: graduation-cap, url: "https://scholar.google.com/citations?view_op=list_works&hl=en&user=vTYawOEAAAAJ"}
   - {title: Github, icon: github, url: "https://github.com/nguyenquantum"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/nguyenquantum"}
 
