@@ -16,7 +16,7 @@ Pronouns: he/him/his
 ---
 * Harvard University - PhD student in quantum information  (*incoming Fall 2022*)
 
-* MIT - BS in physics and computer science (May 2022)
+* MIT - BS in physics and computer science (2018 - 2022)
 
 **Research experience**
 ---
