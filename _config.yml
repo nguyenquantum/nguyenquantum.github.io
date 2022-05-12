@@ -1,6 +1,6 @@
 title: "nguyenquantum"
 author: "Quynh The Nguyen"
-description: ""
+description: "Thanks for visiting!"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -12,7 +12,6 @@ show_excerpts: false        # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
 show_sidebar: false        # show a sidebar instead of the usual header
 minimal: true             # use a dark header
-theme: minima
 
 # Menu
 
@@ -29,7 +28,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Twitter, icon: twitter, url: "https://twitter.com/nguyenquantum"}
 
 comments:
-#  disqus_shortname: ""    # see https://disqus.com/
+  disqus_shortname: ""    # see https://disqus.com/
 #  isso_domain: ""         # see https://posativ.org/isso/
 
 plugins:
