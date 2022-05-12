@@ -10,16 +10,16 @@ date_format: "%B %d, %Y"
 
 show_excerpts: false        # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
-show_sidebar: false        # show a sidebar instead of the usual header
+show_sidebar: true        # show a sidebar instead of the usual header
 minimal: true             # use a dark header
 theme: minima
 
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "CV_QuynhNguyen.pdf", title: "CV"}
+  - {title: "CV", file: "CV_QuynhNguyen.pdf"}
   - {title: "Research", file: "research.md"}
-  - {file: "blog.md", title: "Blog"}
+  - {title: "Blog", file: "blog.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:nguyentq@mit.edu"}
