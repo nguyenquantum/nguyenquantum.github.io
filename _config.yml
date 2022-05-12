@@ -18,8 +18,9 @@ theme: minima
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "About", file: "about.md"}
-  - {title: "Research", file: "research.md"}
+  - {title: "Papers", file: "research.md"}
   - {title: "Blog", file: "blog.md"}
+  - {title: "Misc", file: "misc.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:nguyentq@mit.edu"}
