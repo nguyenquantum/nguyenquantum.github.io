@@ -17,7 +17,7 @@ theme: minima
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {title: "CV", file: "CV_QuynhNguyen.pdf"}
+  - {title: "About", file: "about.md"}
   - {title: "Research", file: "research.md"}
   - {title: "Blog", file: "blog.md"}
 
