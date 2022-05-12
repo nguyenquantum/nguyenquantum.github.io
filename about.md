@@ -7,8 +7,6 @@ Birthplace: Quang Binh, Vietnam
 
 Current place: Cambridge, MA, USA
 
-Full name is Vietnamese: Nguyễn Thế Quỳnh
-
 Pronouns: he/him/his
 
 
@@ -33,4 +31,4 @@ MIT Research Laboratoy of Electronics, supervised by Seth Lloyd and Dirk Englund
 
 **Coursework**
 ---
-* At MIT: Quantum Mechanics III, Statistical Physics, Real Analysis, Probability Theory, Machine Learning, Software Engineering, Applied Discrete Math, Design and Analysis of Algorithms, Computer Systems Engineering. Grad-level: Quantum Computation, Quantum Information Science, Theory of Computation, Statistical Learning Theory, Theory of Solids I, Quantum Field Theory I, Quantum Technology and Devices, Quantum Complexity Theory
+* At MIT: quantum mechanics III, statistical physics, real analysis, probability theory, machine learning, software engineering, applied discrete math, design and analysis of algorithms, computer systems engineering. Grad-level: quantum computation, quantum information science, theory of computation, statistical learning theory, theory of solids I, quantum field theory I, quantum technology and devices, quantum complexity theory
