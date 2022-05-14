@@ -26,7 +26,7 @@ Pronouns: he/him/his
 * Developed quantum algorithms for group-equivariant transformations
 * Developed quantum(-inspired) algorithms for numerical linear algebra -->
 
-**Areas that I'm familiar with**: Quantum computation, quantum information theory, theoretical computer science, machine learning theory, condensed matter physics
+**Areas that I'm familiar with**: quantum computation, quantum information theory, theoretical computer science, machine learning theory, condensed matter physics
 
 **Languages that I know (*a little*)**: Vietnamese, English, French, Python, Java, Matlab
 
