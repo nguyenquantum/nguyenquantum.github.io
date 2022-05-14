@@ -12,14 +12,14 @@ Pronouns: he/him/his
 
 **Education**
 
-* Harvard University - PhD student in quantum information  (*incoming Fall 2022*)
+* Harvard University - PhD student in quantum information  (incoming Fall 2022)
 * MIT - BS in physics and computer science (2018 - 2022)
 
 **I've worked at**
 
-* Los Alamos National Lab (*6/2022 - 8/2022*)
-* Research Laboratory of Electronics (MIT), supervised by Seth Lloyd and Dirk Englund (*1/2021 - 5/2022*)
-* Quantum Measurement Group (MIT), supervised by Mingda Li (*1/2019 - 11/2020*)
+* Los Alamos National Lab (6/2022 - 8/2022)
+* Research Laboratory of Electronics (MIT), supervised by Seth Lloyd and Dirk Englund (1/2021 - 5/2022)
+* Quantum Measurement Group (MIT), supervised by Mingda Li (1/2019 - 11/2020)
 
 
 <!-- * Used machine learning and mathematical tools to study quantum error-correcting codes
@@ -28,6 +28,6 @@ Pronouns: he/him/his
 
 **Areas that I'm familiar with**: Quantum computation, quantum information theory, theoretical computer science, machine learning theory, condensed matter physics
 
-**Languages that I know (a little)**: Vietnamese, English, French, Python, Java
+**Languages that I know (*a little*)**: Vietnamese, English, French, Python, Java, Matlab
 
 Coursework at MIT: quantum mechanics III, statistical physics, real analysis, probability theory, machine learning, software engineering, applied discrete math, design and analysis of algorithms, computer systems engineering. Grad-level: quantum computation, quantum information science, theory of computation, statistical learning theory, theory of solids I, quantum field theory I, quantum technology and devices, quantum complexity theory
