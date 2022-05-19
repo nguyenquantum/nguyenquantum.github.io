@@ -17,3 +17,4 @@ Some other exploratory papers I wrote:
 
 * [Learning quantum error-correcting codes](https://nguyenquantum.github.io/Wasserstein.pdf) using the quantum Wasserstein-1 distance
 
+* [Tight-binding method](https://nguyenquantum.github.io/tight-binding.pdf) for band structure calculation
