@@ -32,3 +32,6 @@ Pronouns: he/him/his
 **Languages I know (*a little*)**: Vietnamese, English, French, Python, Java, Matlab
 
 Quantum mechanically, I am $$ (|nguyen \rangle  + |tran \rangle )/\sqrt{2} $$
+
+$$ e^{i\theta}=\cos(\theta)+i\sin(\theta) $$
+
