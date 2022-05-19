@@ -31,7 +31,7 @@ Pronouns: he/him/his
 
 **Languages I know (*a little*)**: Vietnamese, English, French, Python, Java, Matlab
 
-Quantum mechanically, I am $ (|nguyen \rangle  + |tran \rangle )/\sqrt{2} $
+Quantum mechanically, I am 
 
-$$ e^{i\theta}=\cos(\theta)+i\sin(\theta) $$
+$ ( |nguyen >  + |tran > ) / \sqrt{2} $
 
