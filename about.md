@@ -26,8 +26,8 @@ Pronouns: he/him/his
 * Developed quantum algorithms for group-equivariant transformations
 * Developed quantum(-inspired) algorithms for numerical linear algebra -->
 
-**Areas I'm familiar with**: quantum computation, quantum information theory, theoretical computer science, machine learning theory, condensed matter physics
+**Areas that I want to learn more**: quantum computation, quantum information theory, theoretical computer science, machine learning theory, condensed matter physics, quantum gravity
 
 **Languages I know (*a little*)**: Vietnamese, English, French, Python, Java, Matlab
 
-Coursework at MIT: quantum mechanics III, statistical physics, real analysis, probability theory, machine learning, software engineering, applied discrete math, design and analysis of algorithms, computer systems engineering. Grad-level: quantum computation, quantum information science, theory of computation, statistical learning theory, theory of solids I, quantum field theory I, quantum technology and devices, quantum complexity theory
+<Coursework at MIT: quantum mechanics III, statistical physics, real analysis, probability theory, machine learning, software engineering, applied discrete math, design and analysis of algorithms, computer systems engineering. Grad-level: quantum computation, quantum information science, theory of computation, statistical learning theory, theory of solids I, quantum field theory I, quantum technology and devices, quantum complexity theory>
