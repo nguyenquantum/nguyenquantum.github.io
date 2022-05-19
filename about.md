@@ -33,5 +33,5 @@ Pronouns: he/him/his
 
 Quantum mechanically, I am 
 
-$$ (\| nguyen >  + \| tran \rangle )  / \sqrt{2} $$
+$$ (\mid nguyen \rangle  + \mid tran \rangle )  / \sqrt{2} $$
 
