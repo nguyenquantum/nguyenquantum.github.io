@@ -29,5 +29,3 @@ Pronouns: he/him/his
 **Areas that I want to learn more**: quantum computation, quantum information theory, theoretical computer science, machine learning theory, condensed matter, gravity
 
 **Languages I know (*a little*)**: Vietnamese, English, French, Python, Java, Matlab
-
-Coursework at MIT: quantum mechanics III, statistical physics, real analysis, probability theory, machine learning, software engineering, applied discrete math, design and analysis of algorithms, computer systems engineering. Grad-level: quantum computation, quantum information science, theory of computation, statistical learning theory, theory of solids I, quantum field theory I, quantum technology and devices, quantum complexity theory
