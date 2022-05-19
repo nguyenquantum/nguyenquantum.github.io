@@ -9,7 +9,10 @@ My publications are on [Google Scholar](https://scholar.google.com/citations?vie
 
 Some exploratory papers I wrote:
 
-* [Random circuit sampling](https://nguyenquantum.github.io/Random_circuit_sampling.pdf)
+* [Random circuit sampling](https://nguyenquantum.github.io/Random_circuit_sampling.pdf) and quantum computational advantange (supremacy)
 
-* [Area laws](https://nguyenquantum.github.io/Area_laws.pdf)
+* [Area laws](https://nguyenquantum.github.io/Area_laws.pdf) in many-body physics
+
+* [Learning separation](https://nguyenquantum.github.io/equivariant.pdf) between equivariant (group-convolutional) and fully connected neural networks
+
 
