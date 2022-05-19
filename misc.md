@@ -1,1 +1,1 @@
-In the non-quantum world, I enjoy soccer and guitars. I'm a big fan of Man Utd and [rock](https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv?si=vqoEJGv7R1WjQhBv7lSs4w) [bands](https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm?si=Hi_6v8fpQOa45iJ3jyUYHA).
+In the non-quantum world, I enjoy soccer and guitars. I'm a big fan of Man Utd and a lot of [rock](https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv?si=vqoEJGv7R1WjQhBv7lSs4w) [bands](https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm?si=Hi_6v8fpQOa45iJ3jyUYHA).
