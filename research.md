@@ -21,3 +21,6 @@ Some other exploratory papers I wrote:
 
 Lecture notes:
 * To be uploaded!
+
+
+Coursework at MIT: quantum mechanics III, statistical physics, real analysis, probability theory, machine learning, software engineering, applied discrete math, design and analysis of algorithms, computer systems engineering. Grad-level: quantum computation, quantum information science, theory of computation, statistical learning theory, theory of solids I, quantum field theory I, quantum technology and devices, quantum complexity theory
