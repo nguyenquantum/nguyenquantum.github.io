@@ -29,3 +29,5 @@ Pronouns: he/him/his
 **Areas that I want to learn more**: quantum computation, quantum information theory, theoretical computer science, machine learning theory, condensed matter, gravity
 
 **Languages I know (*a little*)**: Vietnamese, English, French, Python, Java, Matlab
+
+Quantum mechanically, I am $$ (|nguyen \rangle  + |tran \rangle )/\sqrt{2} $$
