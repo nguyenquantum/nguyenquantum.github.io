@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ""
+title: "Research"
 ---
 
 I do research in quantum computation and quantum information theory. Other fields that I often foray into include theoretical computer science and machine learning theory.
