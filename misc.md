@@ -9,4 +9,4 @@ In the non-quantum world, I enjoy soccer and guitars. I'm a big fan of Man Utd a
 
 Check out my [Youtube channel](https://www.youtube.com/channel/UCj8OV-Yj8NpdLTZPVJ3IDpw) for music and travel videos. If you're interested in jamming and forming a band, please let me know :)
 
-![yayyy](https://nguyenquantum.github.io/yayyy.png)
+![yayyyy](https://nguyenquantum.github.io/yayyyy.png)
