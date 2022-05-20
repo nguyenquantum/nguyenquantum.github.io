@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Misc"
 mathjax: true
 layout: post
 categories: media
