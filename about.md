@@ -1,7 +1,7 @@
 ---
 layout: page
 mathjax: true
-title: ""
+title: "About"
 ---
 
 Birthplace: Quang Binh, Vietnam
