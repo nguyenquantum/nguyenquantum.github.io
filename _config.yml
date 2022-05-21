@@ -26,6 +26,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Scholar, icon: graduation-cap, url: "https://scholar.google.com/citations?view_op=list_works&hl=en&user=vTYawOEAAAAJ"}
   - {title: Github, icon: github, url: "https://github.com/nguyenquantum"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/nguyenquantum"}
+  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/quynh-the-nguyen/"}
 
 comments:
   disqus_shortname: ""    # see https://disqus.com/
