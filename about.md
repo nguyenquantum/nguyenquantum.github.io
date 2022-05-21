@@ -31,5 +31,7 @@ Pronouns: he/him/his
 
 **Languages I know (*a little*)**: Vietnamese, English, French, Python, Java, Matlab
 
-Quantum mechanically, I am $$ (\frac{\mid nguyen \rangle  + \mid tran \rangle )/ \sqrt{2} $$
+Quantum mechanically, I am 
+
+$$ (\frac{\mid nguyen \rangle  + \mid tran \rangle )/ \sqrt{2} $$
 
