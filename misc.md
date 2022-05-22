@@ -10,3 +10,9 @@ In the non-quantum world, I enjoy soccer and guitars. I'm a big fan of Man Utd a
 Check out my [Youtube channel](https://www.youtube.com/channel/UCj8OV-Yj8NpdLTZPVJ3IDpw) for music and travel videos. If you're interested in jamming or starting a band, please let me know!
 
 ![](https://nguyenquantum.github.io/yayyyy.png){:height="150px" width="150px"}
+
+
+Random links/readings
+---
+
+* [Computer network] This past semester I took a class called computer systems engineering (6.033) at MIT. It covered a lot of cool materials, but I didn't really pay much attention to the class... Thankfully, I found this cute [cartoon](https://jvns.ca/networking-zine.pdf) which summarizes extremely well some important network protocols that I learned (and failed to learn) such as DNS, HTTP, UDP, TLS. Check it out!
