@@ -15,4 +15,4 @@ Check out my [Youtube channel](https://www.youtube.com/channel/UCj8OV-Yj8NpdLTZP
 Random links/readings
 ---
 
-* [Computer network] This past semester I took a class called computer systems engineering (6.033) at MIT. It covered a lot of cool materials, but I didn't really pay much attention to the class... Thankfully, I found this cute [cartoon](https://jvns.ca/networking-zine.pdf) which summarizes extremely well some important network protocols that I learned (and failed to learn) such as DNS, HTTP, UDP, TLS. [Check it out!](https://jvns.ca/networking-zine.pdf)
+* [Networking] This past semester I took a class called computer systems engineering (6.033) at MIT. It covered a lot of cool materials, but I didn't really pay much attention to the class... Thankfully, I found this cute [cartoon](https://jvns.ca/networking-zine.pdf) which summarizes extremely well some important network protocols that I learned (and failed to learn) such as DNS, HTTP, UDP, TLS. [Check it out!](https://jvns.ca/networking-zine.pdf)
