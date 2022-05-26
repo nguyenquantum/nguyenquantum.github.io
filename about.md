@@ -29,7 +29,7 @@ Pronouns: he/him/his
 
 **Areas that I want to learn more**: quantum computation, quantum information theory, theoretical computer science, machine learning theory, condensed matter, gravity
 
-**Languages I know (*a little*)**: Vietnamese, English, French, Python, Java, Matlab
+**Languages**: Vietnamese, English, French
 
-Quantum mechanically, I am $ ( \mid nguyen \rangle  + \mid tran \rangle )/ \sqrt{2} $
-
+<!-- Quantum mechanically, I am $ ( \mid nguyen \rangle  + \mid tran \rangle )/ \sqrt{2} $
+ -->
