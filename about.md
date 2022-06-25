@@ -31,5 +31,9 @@ Pronouns: he/him/his
 
 **Languages**: Vietnamese, English, French
 
+**Hobbies**: soccer and guitars. I'm a big fan of Man Utd and many [rock](https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv?si=vqoEJGv7R1WjQhBv7lSs4w) [bands](https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm?si=Hi_6v8fpQOa45iJ3jyUYHA). I post music and travel videos on my [Youtube channel](https://www.youtube.com/channel/UCj8OV-Yj8NpdLTZPVJ3IDpw). If you're interested in jamming or starting a band, please let me know!
+
+![](https://nguyenquantum.github.io/yayyyy.png){:height="150px" width="150px"}
+
 <!-- Quantum mechanically, I am $ ( \mid nguyen \rangle  + \mid tran \rangle )/ \sqrt{2} $
  -->
