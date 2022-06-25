@@ -18,7 +18,7 @@ Pronouns: he/him/his
 
 **I have worked with**
 
-* Los Alamos National Lab
+* Los Alamos National Lab (with Marco Cerezo)
 * Research Laboratory of Electronics (MIT) (with Seth Lloyd and Dirk Englund)
 * Quantum Measurement Group (MIT) (with Mingda Li)
 
