@@ -19,8 +19,8 @@ Some other exploratory papers I wrote:
 
 * [Tight-binding method](https://nguyenquantum.github.io/tight-binding.pdf) for band structure calculation
 
-Lecture notes:
-* To be uploaded
+<!-- Lecture notes:
+* To be uploaded -->
 
 
-Coursework at MIT: quantum mechanics III, statistical physics, real analysis, probability theory, machine learning, software engineering, applied discrete math, design and analysis of algorithms, computer systems engineering. Grad-level: quantum computation, quantum information science, theory of computation, statistical learning theory, theory of solids I, quantum field theory I, quantum technology and devices, quantum complexity theory
+Coursework at MIT: quantum mechanics III, statistical physics, real/complex analysis, probability theory, machine learning, software engineering, applied discrete math, design and analysis of algorithms, computer systems engineering, quantum computation, quantum information science, theory of computation, statistical learning theory, theory of solids I, quantum field theory I, quantum technology and devices, quantum complexity theory
