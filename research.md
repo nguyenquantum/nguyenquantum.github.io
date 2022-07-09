@@ -7,7 +7,7 @@ I do research in quantum computation and quantum information theory. Other field
 
 My publications are on [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=vTYawOEAAAAJ)
 
-Some other exploratory papers I wrote:
+Some other exploratory papers I've written:
 
 * [Random circuit sampling](https://nguyenquantum.github.io/Random_circuit_sampling.pdf) and quantum computational advantange (aka quantum supremacy)
 
