@@ -18,15 +18,15 @@ minimal: true             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "About", file: "about.md"}
   - {title: "Research", file: "research.md"}
-  - {title: "Blog", file: "blog.md"}
-  - {title: "Misc", file: "misc.md"}
+  - {title: "Updates", file: "update.md"}
+#   - {title: "Misc", file: "misc.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:nguyentq@mit.edu"}
   - {title: Scholar, icon: graduation-cap, url: "https://scholar.google.com/citations?view_op=list_works&hl=en&user=vTYawOEAAAAJ"}
-  - {title: Github, icon: github, url: "https://github.com/nguyenquantum"}
+#   - {title: Github, icon: github, url: "https://github.com/nguyenquantum"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/nguyenquantum"}
-  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/quynh-the-nguyen/"}
+#   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/quynh-the-nguyen/"}
 
 comments:
   disqus_shortname: ""    # see https://disqus.com/
