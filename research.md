@@ -13,10 +13,10 @@ Some other exploratory papers I've written:
 
 * [Area laws](https://nguyenquantum.github.io/Area_laws.pdf) in quantum many-body physics
 
-* [Sample complexity separation](https://nguyenquantum.github.io/equivariant.pdf) between equivariant (aka group convolutional) and fully connected neural networks (with [Bobak Kiani](https://scholar.google.com/citations?user=fz1mq4AAAAAJ&hl=en))
+<!-- * [Sample complexity separation](https://nguyenquantum.github.io/equivariant.pdf) between equivariant (aka group convolutional) and fully connected neural networks (with [Bobak Kiani](https://scholar.google.com/citations?user=fz1mq4AAAAAJ&hl=en))
 
 * [Learning quantum error-correcting codes](https://nguyenquantum.github.io/Wasserstein.pdf) using the quantum Wasserstein-1 distance
-
+ -->
 <!-- * [Tight-binding method](https://nguyenquantum.github.io/tight-binding.pdf) for band structure calculation
  -->
 <!-- Lecture notes:
