@@ -16,10 +16,13 @@ Current place: Cambridge, MA, USA
 
 **Work experience**
 
-* Los Alamos National Laboratory (with Marco Cerezo)
-* Research Laboratory of Electronics (MIT) (with Seth Lloyd and Dirk Englund)
-* Quantum Measurement Group (MIT) (with Mingda Li)
-
+* Los Alamos National Laboratory
+<!-- * (with Marco Cerezo) -->
+* Research Laboratory of Electronics (MIT)
+<!-- *  (with Seth Lloyd and Dirk Englund) -->
+* Quantum Measurement Group (MIT)
+<!-- *  (with Mingda Li)
+ -->
 
 **Areas of interest**: quantum information, theoretical computer science, scientific machine learning
 
