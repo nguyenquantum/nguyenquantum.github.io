@@ -3,7 +3,7 @@ layout: page
 title: "Research"
 ---
 
-My research is at the intersection of quantum information, theoretical computer science, and machine learning.
+I am currently focusing on quantum information, quantum complexity, and quantum error correction.
 
 My publications are on [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=vTYawOEAAAAJ)
 
@@ -23,4 +23,5 @@ Some other exploratory papers I've written:
 * To be uploaded -->
 
 
-Coursework at MIT: quantum mechanics III, statistical physics, real/complex analysis, probability theory, machine learning, software engineering, applied discrete math, design and analysis of algorithms, computer systems engineering, quantum computation, quantum information science, theory of computation, statistical learning theory, theory of solids I, quantum field theory I, quantum technology and devices, quantum complexity theory
+<!-- Coursework at MIT: quantum mechanics III, statistical physics, real/complex analysis, probability theory, machine learning, software engineering, applied discrete math, design and analysis of algorithms, computer systems engineering, quantum computation, quantum information science, theory of computation, statistical learning theory, theory of solids I, quantum field theory I, quantum technology and devices, quantum complexity theory
+ -->
