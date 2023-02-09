@@ -3,7 +3,7 @@ layout: page
 title: "Research"
 ---
 
-I am currently focusing on quantum information, quantum complexity, and quantum error correction.
+Main research topics: quantum information, quantum complexity, and quantum error correction.
 
 My publications are on [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=vTYawOEAAAAJ)
 
