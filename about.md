@@ -24,7 +24,7 @@ Current place: Cambridge, MA, USA
 <!-- *  (with Mingda Li)
  -->
 
-**Areas of interest**: quantum information, theoretical computer science, scientific machine learning
+**Areas of interest**: quantum information, theoretical computer science, theoretical physics
 
 **Languages**: Vietnamese, English, French
 
